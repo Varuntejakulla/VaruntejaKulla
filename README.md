@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">I am passionate</h3>
-<img align ="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1711584000&v=beta&t=2Boxvur9C3vUpwwBtIswtBAm83PYOX5Aq9Fanu9WKK0">
+<img align ="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **machine learning**
